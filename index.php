@@ -13,6 +13,7 @@
   <?php include("example.php"); ?>
   <button type="button" onclick="helloJS()">Click Me!</button>
   
+  <h1>This is a change </h1>
 </body>
   <script src="js/main.js"></script>
 </html>
